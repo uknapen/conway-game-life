@@ -22,8 +22,8 @@ This is a web application that simulates Conway's Game of Life, a cellular autom
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/game-of-life.git
-   cd game-of-life
+   git clone https://github.com/uknapen/conway-game-life.git
+   cd conway-game-life
    ```
 2. **Install Dependencies**
 ```bash
